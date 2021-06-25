@@ -4,7 +4,7 @@
 %global libqatzip_soversion 1
 
 Name:           qatzip
-Version:        1.0.3
+Version:        1.0.4
 Release:        1%{?dist}
 Summary:        Intel QuickAssist Technology (QAT) QATzip Library
 License:        BSD
